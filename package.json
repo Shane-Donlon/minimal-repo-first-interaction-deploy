@@ -21,7 +21,7 @@
     "@astrojs/check": "^0.9.4",
     "@astrojs/netlify": "^6.3.2",
     "@astrojs/vercel": "^8.1.4",
-    "@builder.io/qwik": "^1.12",
+    "@builder.io/qwik": "https://pkg.pr.new/@builder.io/qwik@465483f",
     "@qwikdev/astro": "https://pkg.pr.new/QwikDev/astro/@qwikdev/astro@882c7cc",
     "astro": "^5.1"
   },
